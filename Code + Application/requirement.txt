@@ -1,0 +1,4 @@
+openai
+tkinter
+neo4j
+collections
